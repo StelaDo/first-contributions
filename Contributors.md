@@ -20,6 +20,7 @@
 - [Sayan Mandal](https://github.com/sayanmandal)
 - [Akram] (https://github.com/zezooli)
 - Vaibhav Kaushal
+- StelaDo
 - Mi'Angel Pata
 - [Jesse Lau]()
 - [Amir Afrimian](https://github.com/amiraf)
